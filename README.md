@@ -1,4 +1,5 @@
-## Oiii eu sou Romoaldo Doliz Desenvolvedor Web a mais de 5 anos!
+romoaldodoliz@hotmail.com
++258862020616
 <div align="center">
   <a href="https://github.com/romoaldodoliz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=romoaldodoliz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
