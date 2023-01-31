@@ -19,12 +19,14 @@ const Doliz = {
   techCommunities: {
                         Founder: "Code Mind",
                         Main Skills: "QA Engineer , Software Engineer , Web Developer",
-                        mentor: "Code Mind and Crowe Mozambique"
+                        mentor: "Above - Centro de formacao"
                       },
- challenge: "I am doing the #100DaysOfCode challenge focused on typescript"
+ challenge: "I am doing the #100DaysOfCode challenge focused on Javascript"
 }
 ```
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/romoaldodoliz/count.svg" />
+</p>
 
 ---
