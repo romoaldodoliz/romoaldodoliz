@@ -1,25 +1,25 @@
 <h2> Hi, I'm Romoaldo Edmundo Doliz!</h2>
 <img align='right' src="https://media4.giphy.com/media/u2pmTWUi0MXjyrMaVj/200w.webp?cid=ecf05e47bcur2ijeocx3giunrfmfu3gp8yyfkm697p6hih5i&rid=200w.webp&ct=g" width="230">
-<p><em>Software Enginner at <a href="http://www.unb.br">University of Brasilia</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Lead Software Enginner at <a href="http://www.romoaldodoliz.com">Reflections Mobile Inc</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>QA Engineer Consultant at <a href="https://www.standardbank.co.mz">Standard Bank Mozambique</a><img src="[https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif](https://www.newsaiep.com/moz_news/wp-content/uploads/standbank.gif)" width="30"> 
 </em></p>
 
 
-[![Twitter: Mrhopeful27](https://img.shields.io/twitter/follow/Tmrhopeful27?style=social)](https://twitter.com/mrhopeful27)
-[![Linkedin: RomoaldoDOliz](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/romoaldodoliz/)](https://www.linkedin.com/in/romoaldodoliz/)
-[![GitHub Thaiane](https://img.shields.io/github/followers/romoaldodoliz?label=follow&style=social)](https://github.com/romoaldodoliz)
+[![Twitter: Mrhopeful27](https://img.shields.io/twitter/follow/mrhopeful27?style=social)](https://twitter.com/mrhopeful27)
+[![Linkedin: RomoaldoDoliz](https://img.shields.io/badge/-romoaldodoliz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/romoaldodoliz/)](https://www.linkedin.com/in/romoaldodoliz/)
+[![GitHub Romoaldo Doliz](https://img.shields.io/github/followers/romoaldodoliz?label=follow&style=social)](https://github.com/romoaldodoliz)
 
 
 ### <img src="https://media1.giphy.com/media/PI3QGKFN6XZUCMMqJm/200.webp?cid=ecf05e476x7s1zomtsyxw9z567nyl5yoae73l53tkjh2ya94&rid=200.webp&ct=g" width="50"> A little more about me...  
 
 ```javascript
 const Doliz = {
-  pronouns: "she" | "her",
+  pronouns: "He" | "His",
   code: [Javascript, Typescript, HTML, CSS, PHP, Python, Java],
   tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
   architecture: ["microservices", "event-driven", "design system pattern"],
   techCommunities: {
-                        coorganizer: "RobotFramework",
-                        speaker: "Moz Dev Beira",
+                        Founder: "Code Mind",
+                        Main Skills: "QA Engineer , Software Engineer , Web Developer",
                         mentor: "Code Mind and Crowe Mozambique"
                       },
  challenge: "I am doing the #100DaysOfCode challenge focused on typescript"
