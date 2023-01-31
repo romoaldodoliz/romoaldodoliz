@@ -8,7 +8,7 @@
 [![GitHub Thaiane](https://img.shields.io/github/followers/romoaldodoliz?label=follow&style=social)](https://github.com/romoaldodoliz)
 
 
-### <iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p> A little more about me...  
+### <img src="[https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif](https://media2.giphy.com/media/KNP5EQE5n2nczSFYpD/200w.webp?cid=ecf05e476x7s1zomtsyxw9z567nyl5yoae73l53tkjh2ya94&rid=200w.webp&ct=g)" width="50"> A little more about me...  
 
 ```javascript
 const Doliz = {
