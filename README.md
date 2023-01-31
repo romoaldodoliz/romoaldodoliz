@@ -8,10 +8,10 @@
 [![GitHub Thaiane](https://img.shields.io/github/followers/romoaldodoliz?label=follow&style=social)](https://github.com/romoaldodoliz)
 
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### <iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p> A little more about me...  
 
 ```javascript
-const thai = {
+const Doliz = {
   pronouns: "she" | "her",
   code: [Javascript, Typescript, HTML, CSS, PHP, Python, Java],
   tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
