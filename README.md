@@ -1,6 +1,6 @@
 <h2> Hi, I'm Romoaldo Edmundo Doliz ! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<p><em>Software Enginner and QA Engineer at <a href="http://www.romoaldodoliz.com">Code Mind/a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Lead Software Engineer at <a href="#">Reflections Mobile Inc</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Software Enginner and QA Engineer at <a href="http://www.romoaldodoliz.com">Code Mind/a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 </em></p>
 
 [![Twitter: Mrhopeful27](https://img.shields.io/twitter/follow/Tmrhopeful27?style=social)](https://twitter.com/mrhopeful27)
@@ -8,7 +8,7 @@
 [![GitHub Thaiane](https://img.shields.io/github/followers/romoaldodoliz?label=follow&style=social)](https://github.com/romoaldodoliz)
 
 
-### <img src="[https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif](https://media2.giphy.com/media/KNP5EQE5n2nczSFYpD/200w.webp?cid=ecf05e476x7s1zomtsyxw9z567nyl5yoae73l53tkjh2ya94&rid=200w.webp&ct=g)" width="50"> A little more about me...  
+### <img src="https://media1.giphy.com/media/PI3QGKFN6XZUCMMqJm/200.webp?cid=ecf05e476x7s1zomtsyxw9z567nyl5yoae73l53tkjh2ya94&rid=200.webp&ct=g" width="50"> A little more about me...  
 
 ```javascript
 const Doliz = {
