@@ -1,6 +1,5 @@
 <h2> Hi, I'm Romoaldo Edmundo Doliz!</h2>
-<img align='right' src="https://media4.giphy.com/media/u2pmTWUi0MXjyrMaVj/200w.webp?cid=ecf05e47bcur2ijeocx3giunrfmfu3gp8yyfkm697p6hih5i&rid=200w.webp&ct=g" width="230">
-<p><em>Lead Software Enginner at <a href="http://www.romoaldodoliz.com">Reflections Mobile Inc</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>QA Engineer Consultant at <a href="https://www.standardbank.co.mz">Standard Bank Mozambique</a><img src="https://www.newsaiep.com/moz_news/wp-content/uploads/standbank.gif" width="30"> 
+<p><em>Lead Software Enginner at <a href="http://www.romoaldodoliz.com">Reflections Mobile Inc</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>QA Engineer Consultant at <a href="https://www.standardbank.co.mz">Standard Bank Mozambique</a> 
 </em></p>
 
 
