@@ -1,5 +1,5 @@
 <h2> Hi, I'm Romoaldo Edmundo Doliz!</h2>
-<p><em>Lead Software Enginner at <a href="http://www.romoaldodoliz.com">Reflections Mobile Inc</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>QA Engineer Consultant at <a href="https://www.standardbank.co.mz">Standard Bank Mozambique</a> 
+<p><em>Senior QA at <a href="http://www.romoaldodoliz.com">Moza Banco</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>QA Engineer Consultant at <a href="https://www.standardbank.co.mz">Standard Bank Mozambique</a> 
 </em></p>
 
 
