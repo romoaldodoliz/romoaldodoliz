@@ -12,11 +12,11 @@
 const Doliz = {
   pronouns: "He" | "His",
   code: [Javascript, Typescript, HTML, CSS, PHP, Python, Java],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
+  tools: [React, Redux, Node, UI Design, Styled-Components, Jest, Docker, Cypress.io],
   architecture: ["microservices", "event-driven", "design system pattern"],
   techCommunities: {
-                        Founder: "Code Mind",
-                        Main Skills: "QA Engineer , Software Engineer , Web Developer",
+                        Founder: "Code Mind SA",
+                        Main Skills: "QA Engineer , Software Engineer , Web Developer, UI/UX Designer",
                         mentor: "Above - Centro de formacao"
                       },
  challenge: "I am doing the #100DaysOfCode challenge focused on Javascript"
