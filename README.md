@@ -12,10 +12,10 @@
 const Doliz = {
   pronouns: "He" | "His",
   code: [Javascript, Typescript, HTML, CSS, PHP, Python, Java],
-  tools: [React, Redux, Node, UI Design, Styled-Components, Jest, Docker, Cypress.io],
+  tools: [Reactjs, Redux, Nodejs, UI Design, Styled-Components, Jest, Selenium, Cypress.io],
   architecture: ["microservices", "event-driven", "design system pattern"],
   techCommunities: {
-                        Founder: "Code Mind SA",
+                        Founder: "Code Mind and Kuoana Pambere Lda",
                         Main Skills: "QA Engineer , Software Engineer , Web Developer, UI/UX Designer",
                         mentor: "Above - Centro de formacao"
                       },
