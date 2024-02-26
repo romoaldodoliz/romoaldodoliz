@@ -9,13 +9,13 @@
 
 - 🔭 I’m currently working on **Load, Performance test and Front-end Automated Test**
 
-- 🌱 I’m currently learning **Vuetify and Reactjs**
+- 🌱 I’m currently learning **Java and Spring**
 
-- 👯 I’m looking to collaborate on **Management system and automation frameworks**
+- 👯 I’m looking to collaborate on **Projects that impact and help my community**
 
 - 🤝 I’m looking for help with **Front-End Issues**
 
-- 👨‍💻 All of my projects are available at [romoaldodoliz.github.io](romoaldodoliz.github.io)
+- 👨‍💻 All of my projects are available at [Romoaldo Portfolio](romoaldodoliz.vercel.app/)
 
 - 💬 Ask me about **react, sharepoint, javascript , testing tools**
 
