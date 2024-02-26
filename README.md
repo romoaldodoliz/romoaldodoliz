@@ -13,9 +13,7 @@
 
 - 👯 I’m looking to collaborate on **Projects that impact and help my community**
 
-- 🤝 I’m looking for help with **Front-End Issues**
-
-- 👨‍💻 All of my projects are available at [Romoaldo Portfolio](romoaldodoliz.vercel.app/)
+- 👨‍💻 All of my projects are available at [Romoaldo Portfolio](https://romoaldodoliz.vercel.app/)
 
 - 💬 Ask me about **react, sharepoint, javascript , testing tools**
 
