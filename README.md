@@ -1,6 +1,6 @@
 # 👋 Welcome to Romoaldo's Ninja Tech World! 🦸‍♂️
 
-![Naruto GIF](https://media.giphy.com/media/xUPGcxpCV81ebKhGr6/giphy.gif)
+![Naruto GIF](https://i.pinimg.com/originals/6b/4c/53/6b4c53c16384d6e7fb8e8526a13a0913.gif)
 
 ## ⚡ Who Am I?
 
