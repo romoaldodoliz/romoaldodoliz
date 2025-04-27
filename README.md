@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://twitter.com/romoaldodoliz" target="blank"><img src="https://img.shields.io/twitter/follow/romoaldodoliz?logo=twitter&style=for-the-badge" alt="romoaldodoliz" /></a> </p>
 
 <a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="Naruto GIF" src="https://www.gifcen.com/wp-content/uploads/2022/09/naruto-gif-4.gif">
+  <img align="right" top="500" height="300" width="400" alt="Naruto GIF" src="https://www.gifcen.com/wp-content/uploads/2022/01/naruto-gif-6.gif">
 </a>
 
 - 🔭 I’m currently working at **Conexar Management** [Website](https://conexarmanagement.com)
@@ -19,7 +19,7 @@
 
 ---
 
-<h3 align="center" > <img src="https://www.gifcen.com/wp-content/uploads/2022/01/naruto-gif-6.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
+<h3 align="center" > <img src="https://icons.veryicon.com/png/o/application/common-icons/connect-36.png" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
 <p align="center">
   <div align="center" class="icons-social" style="margin-left: 10px;">
