@@ -1,33 +1,63 @@
-# 👋 Welcome to Romoaldo's Ninja Tech World! 🦸‍♂️
+<h1 align="center">Hi 👋, I'm <a href="https://www.linkedin.com/in/romoaldodoliz/" target="blank">Romoaldo Doliz</a></h1>
+<h3 align="center">A passionate Frontend Developer & Automation Engineer from Mozambique 🇲🇿</h3>
 
-![Naruto GIF](https://i.pinimg.com/originals/6b/4c/53/6b4c53c16384d6e7fb8e8526a13a0913.gif)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=romoaldodoliz&label=Profile%20views&color=0e75b6&style=flat" alt="romoaldodoliz" /> </p>
 
-## ⚡ Who Am I?
+<p align="left"> <a href="https://twitter.com/romoaldodoliz" target="blank"><img src="https://img.shields.io/twitter/follow/romoaldodoliz?logo=twitter&style=for-the-badge" alt="romoaldodoliz" /></a> </p>
 
-I'm **Romoaldo Doliz**, a passionate **Frontend Developer** 🖥️ and **Automation Engineer** 🔧 with over 7 years of experience in the digital battlefield (IT & Marketing!). Think of me as the ninja who fights bugs, builds solutions, and automates everything—whether it's JavaScript shurikens 🌀 or Python kunai 🔪!
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="Naruto GIF" src="https://www.gifcen.com/wp-content/uploads/2022/09/naruto-gif-4.gif">
+</a>
 
-## 💻 My Skill Set – Ninja Arsenal
+- 🔭 I’m currently working at **Conexar Management** [Website](https://conexarmanagement.com)
+- 🌱 I’m currently working on **Frontend Development** and **Test Automation** (React, Playwright, Cypress).
+- 🤝 I’m available for **freelancing** or consulting in automation and frontend projects.
+- 📝 I regularly write articles on **[Conexar Management Blog](https://conexarmanagement.com/blog)** and share insights on **Test Automation**.
+- 💬 Ask me about **React.js**, **Test Automation**, **JavaScript**, and **Python**.
+- 📫 How to reach me: **romoaldodoliz@hotmail.com**
+- 📄 Check out my **[Resume](https://linkedin.com/in/romoaldodoliz)**
 
-- **Frontend Jutsus**:  
-  🛠️ JavaScript (Ninjutsu)  
-  🛠️ TypeScript (Chakra Precision)  
-  🛠️ React, Node.js (Shadow Clone Development)  
+---
 
-- **Automation Arts**:  
-  ⚡ Playwright & Robot Framework (Auto-Ninjutsu)  
-  ⚡ Test Automation (Bugs Beware!)  
-  ⚡ Cypress, Selenium (Sage Mode for Testing)  
+<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
-- **Back-End Tools**:  
-  ⚙️ Python, PHP, C++ (Behind-the-scenes magic)  
-  ⚙️ Docker, Express.js (Infrastructure as smooth as a Rasengan)
+<p align="center">
+  <div align="center" class="icons-social" style="margin-left: 10px;">
+    <a style="margin-left: 10px;" target="_blank" href="https://www.linkedin.com/in/romoaldodoliz/">
+      <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png">
+    </a>
+    <a style="margin-left: 10px;" target="_blank" href="https://github.com/romoaldodoliz">
+      <img src="https://img.icons8.com/doodle/40/000000/github--v1.png">
+    </a>
+    <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/mrhopeful27/">
+      <img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png">
+    </a>
+  </div>
+</p>
 
-## 🏆 My Recent Achievements
+---
 
-- Integrated and designed a custom UI framework for multi-platform testing—like running a perfect team combo in a Naruto battle!  
-- Automated test scheduling, configuration, and reporting 📊 using Playwright & Robot Framework—because who has time to do it manually?
+## ⚡ **Recent Achievements**
+- **Automated Test Scheduling**: Implemented a custom scheduling solution using **Playwright** and **Robot Framework** for seamless test execution and reporting.
+- **UI Design & Integration**: Successfully built and integrated a **custom UI framework** for multi-platform testing.
+- **React Development**: Worked on several high-impact React applications, optimizing performance and ensuring a smooth user experience.
 
-## 🚀 What’s Next?  
-I'm continuously leveling up, currently mastering **Java** and **Spring** for performance testing and enhancing my **full-stack** abilities!
+---
 
-Stay tuned—I'll be adding more ninja tech and open-source contributions! Feel free to explore, contribute, or even spar in a friendly code battle 🥋.
+## 🧰 **Technologies & Tools**  
+- **Frontend**: React, TypeScript, JavaScript, HTML, CSS
+- **Automation**: Playwright, Robot Framework, Cypress, Selenium
+- **Backend**: Node.js, Express, Python, PHP
+- **Tools**: Docker, Git, Jira, Jenkins
+
+---
+
+## 📚 **Latest Blog Posts**  
+- [**So You Wanna Be a Test Automation Engineer? Here’s the Hard Truth (With Jokes).**](https://conexarmanagement.com/blog)
+- [**“Hold My Coffee While I Break This Prod” — A QA Engineer’s Survival Guide to FinTech Security
+**](https://conexarmanagement.com/blog)
+- [**How to Perform Automated Accessibility Testing on Websites with Playwright and JavaScript**](https://conexarmanagement.com/blog)
+
+---
+
+**Credit**: [Romoaldo Doliz](https://github.com/romoaldodoliz)
