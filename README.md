@@ -1,63 +1,74 @@
-<h1 align="center">Hi 👋, I'm <a href="https://www.linkedin.com/in/romoaldodoliz/" target="blank">Romoaldo Doliz</a></h1>
-<h3 align="center">A passionate Frontend Developer & Automation Engineer from Mozambique 🇲🇿</h3>
+# Hi 👋, I'm Romoaldo Doliz
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=romoaldodoliz&label=Profile%20views&color=0e75b6&style=flat" alt="romoaldodoliz" /> </p>
+🚀 A passionate **Frontend Developer & Test Automation Engineer** from **Mozambique 🇲🇿**
 
-<p align="left"> <a href="https://twitter.com/romoaldodoliz" target="blank"><img src="https://img.shields.io/twitter/follow/romoaldodoliz?logo=twitter&style=for-the-badge" alt="romoaldodoliz" /></a> </p>
-
-<a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="Naruto GIF" src="https://www.gifcen.com/wp-content/uploads/2022/01/naruto-gif-6.gif">
-</a>
-
-- 🔭 I’m currently working at **Conexar Management** [Website](https://conexarmanagement.com)
-- 🌱 I’m currently working on **Frontend Development** and **Test Automation** (React, Playwright, Cypress).
-- 🤝 I’m available for **freelancing** or consulting in automation and frontend projects.
-- 📝 I regularly write articles on **[Conexar Management Blog](https://conexarmanagement.com/blog)** and share insights on **Test Automation**.
-- 💬 Ask me about **React.js**, **Test Automation**, **JavaScript**, and **Python**.
-- 📫 How to reach me: **romoaldodoliz@hotmail.com**
-- 📄 Check out my **[Resume](https://linkedin.com/in/romoaldodoliz)**
+![Naruto](https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif)
 
 ---
 
-<h3 align="center" > <img src="https://icons.veryicon.com/png/o/application/common-icons/connect-36.png" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
+### 💼 About Me
 
-<p align="center">
-  <div align="center" class="icons-social" style="margin-left: 10px;">
-    <a style="margin-left: 10px;" target="_blank" href="https://www.linkedin.com/in/romoaldodoliz/">
-      <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png">
-    </a>
-    <a style="margin-left: 10px;" target="_blank" href="https://github.com/romoaldodoliz">
-      <img src="https://img.icons8.com/doodle/40/000000/github--v1.png">
-    </a>
-    <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/mrhopeful27/">
-      <img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png">
-    </a>
-  </div>
-</p>
-
----
-
-## ⚡ **Recent Achievements**
-- **Automated Test Scheduling**: Implemented a custom scheduling solution using **Playwright** and **Robot Framework** for seamless test execution and reporting.
-- **UI Design & Integration**: Successfully built and integrated a **custom UI framework** for multi-platform testing.
-- **React Development**: Worked on several high-impact React applications, optimizing performance and ensuring a smooth user experience.
+- 🔭 I’m currently working at **Conexar Management - Digital Solutions**
+- 🌱 I recently completed the **WEX - End to End Engineering Bootcamp**, sharpening my skills in:
+  - ✅ **Advanced C# Development**
+  - ✅ **Software Quality Assurance & Testing**
+  - ✅ **Clean Code & Software Architecture Best Practices**
+  - ✅ **Relational Databases (SQL)**
+  - ✅ **Cloud Computing with AWS**
+- ⚙️ I specialize in **Frontend Development** and **Test Automation** using modern tools and frameworks.
+- 🤝 I’m open for **freelancing**, **collaboration**, and **consulting** in automation and frontend engineering.
+- 📝 I regularly write articles at **[Conexar Management Blog](https://conexarmanagement.com)**.
+- 💬 Ask me about anything related to **React.js**, **Test Automation**, **JavaScript**, or **Python**.
+- 📫 Reach me at: **romoaldodoliz@hotmail.com**
+- 📄 [Check out my Resume](#)
 
 ---
 
-## 🧰 **Technologies & Tools**  
-- **Frontend**: React, TypeScript, JavaScript, HTML, CSS
-- **Automation**: Playwright, Robot Framework, Cypress, Selenium
-- **Backend**: Node.js, Express, Python, PHP
-- **Tools**: Docker, Git, Jira, Jenkins
+### 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/romoaldodoliz/)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/romoaldodoliz)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat-square&logo=vercel&logoColor=white)](https://conexarmanagement.com)
 
 ---
 
-## 📚 **Latest Blog Posts**  
-- [**So You Wanna Be a Test Automation Engineer? Here’s the Hard Truth (With Jokes).**](https://conexarmanagement.com/blog)
-- [**“Hold My Coffee While I Break This Prod” — A QA Engineer’s Survival Guide to FinTech Security
-**](https://conexarmanagement.com/blog)
-- [**How to Perform Automated Accessibility Testing on Websites with Playwright and JavaScript**](https://conexarmanagement.com/blog)
+### ⚡ Recent Achievements
+
+- 🧪 **Automated Test Scheduling**: Built a robust scheduler using Playwright & Robot Framework for end-to-end execution.
+- 🎨 **Custom UI Framework**: Designed and integrated responsive UI components for multi-platform apps.
+- ⚛️ **React Development**: Delivered high-performance React-based web apps with excellent UX.
+- ☁️ **Cloud-Ready Testing**: Leveraged AWS tools for CI/CD and scalable test execution.
 
 ---
 
-**Credit**: [Romoaldo Doliz](https://github.com/romoaldodoliz)
+### 🧰 Technologies & Tools
+
+**Frontend:**  
+`React` · `TypeScript` · `JavaScript` · `HTML` · `CSS`
+
+**Automation & QA:**  
+`Playwright` · `Robot Framework` · `Cypress` · `Selenium`
+
+**Backend & Scripting:**  
+`Node.js` · `Express` · `Python` · `PHP` · `C# (.NET)`
+
+**DevOps & Tools:**  
+`Docker` · `Git` · `Jira` · `Jenkins` · `AWS`
+
+---
+
+### 📚 Latest Blog Posts
+
+- 🧠 [So You Wanna Be a Test Automation Engineer? Here’s the Hard Truth (With Jokes)](https://conexarmanagement.com)
+- ☕ **“Hold My Coffee While I Break This Prod” — A QA Engineer’s Survival Guide to FinTech Security**
+- ♿ [How to Perform Automated Accessibility Testing on Websites with Playwright and JavaScript](https://conexarmanagement.com)
+
+---
+
+### 🎯 Fun Fact
+
+> "The best code is no code at all — but when we must write it, we write it clean, tested, and ready for change."
+
+---
+
+_Thanks for visiting my GitHub! ⭐ Don't forget to follow me for cool projects and insights._
