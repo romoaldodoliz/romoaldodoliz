@@ -126,16 +126,6 @@ const romoaldo = {
 
 ---
 
-## 🌟 Featured Work
-
-<div align="center">
-
-<!-- Project cards with hover effects -->
-<a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=romoaldodoliz&repo=test-automation-framework&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff" alt="Test Automation Framework"/></a>
-<a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=romoaldodoliz&repo=react-component-library&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff" alt="React Component Library"/></a>
-
-</div>
-
 ---
 
 ## 📝 Latest Blog Posts
